@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hjjkhdkj
 
 jkdshfjk
@@ -6,3 +7,9 @@ sjdhf
 skdjfh
 sdjfhj
 sdjfhj
+=======
+dfmb,m,vcnbvn
+
+vckbjkvc
+kljfhj
+>>>>>>> 3way
